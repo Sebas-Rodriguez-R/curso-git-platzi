@@ -3,4 +3,4 @@ Esta es la vida de Sebastian Rodriguez.
 Nació en Bogotá, Colombia en el año 1998, tiene actualmente 25 años y estudia programación.
 Así inicio su historia
 
-Probando a git
+Proband a git
