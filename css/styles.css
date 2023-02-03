@@ -5,10 +5,18 @@ body {
     font-size: 14px;
     padding: 0;
     margin: 0;
+    background: #dd9696;
+}
+
+#cabecera #imagenlogo{
+    align-items: left;
+    position: relative;
+    width: 100px;
+    width: 100px;
 }
 
 #cabecera{
-     background: #717171;
+     background: #4b3593;
      color: #fff;
      margin: 0;
      padding: 0.5em;
@@ -36,4 +44,5 @@ body {
 
 #post{
     padding: 1em;
+    background: #fff;
 }
