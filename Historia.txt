@@ -6,3 +6,5 @@ Así inicio su historia.
 Probando a git
 
 Prueba de actualización utilizando git y github.
+
+Agregamos esta linea para visualizar el git pull
